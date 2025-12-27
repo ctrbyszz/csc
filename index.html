@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Samsung CSC Finder</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>Samsung CSC Finder</header>
+
+<nav>
+  <button class="tab active" data-tab="csc">CSC</button>
+  <button class="tab" data-tab="country">Country</button>
+</nav>
+
+<main>
+  <section id="csc" class="tab-content active">
+    <input id="cscInput" placeholder="Enter CSC (e.g. XEO)">
+    <ul id="cscSuggest" class="suggest"></ul>
+    <div id="cscResult"></div>
+  </section>
+
+  <section id="country" class="tab-content">
+    <input id="countryInput" placeholder="Enter country (e.g. Poland)">
+    <ul id="countrySuggest" class="suggest"></ul>
+    <div id="countryResult"></div>
+  </section>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
