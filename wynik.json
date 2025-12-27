@@ -1,0 +1,3172 @@
+[
+  {
+    "number": 1,
+    "csc": "3IE",
+    "description": "Ireland (Three)"
+  },
+  {
+    "number": 2,
+    "csc": "ABD",
+    "description": "Tunisia"
+  },
+  {
+    "number": 3,
+    "csc": "ABS",
+    "description": "Tunisia (Tunisie Telecom, Ooredoo Tunisia, Orange)"
+  },
+  {
+    "number": 4,
+    "csc": "ACA",
+    "description": "Ghana (MTN Ghana, Vodafone, AirtelTigo Ghana, Orange CM, MTN)"
+  },
+  {
+    "number": 5,
+    "csc": "ACG",
+    "description": "United States of America (Nextech/C-Spire)"
+  },
+  {
+    "number": 6,
+    "csc": "ACR",
+    "description": "Ghana"
+  },
+  {
+    "number": 7,
+    "csc": "AFG",
+    "description": "Afghanistan (Afghan Telecom, Afghan Wireless, Etisalat, MTN Group, Roshan, Salaam Network, Zain JO, Orange, Alfa)"
+  },
+  {
+    "number": 8,
+    "csc": "AFR",
+    "description": "Kenya (Safaricom, Airtel Kenya, Telkom Kenya, Finserve)"
+  },
+  {
+    "number": 9,
+    "csc": "AIR",
+    "description": "Zambia (Airtel)"
+  },
+  {
+    "number": 10,
+    "csc": "AIO",
+    "description": "United States (Cricket Wireless)"
+  },
+  {
+    "number": 11,
+    "csc": "ALB",
+    "description": "Albania (Vodafone, Telekom, Eagle, Plus Communication)"
+  },
+  {
+    "number": 12,
+    "csc": "ALE",
+    "description": "Ecuador (Alegro)"
+  },
+  {
+    "number": 13,
+    "csc": "ALG",
+    "description": "Algeria"
+  },
+  {
+    "number": 14,
+    "csc": "ALO",
+    "description": "Ukraine (MTS, Kyivstar, Beeline, Utel Kyivstar)"
+  },
+  {
+    "number": 15,
+    "csc": "ALT",
+    "description": "Kazakhstan (Altel)"
+  },
+  {
+    "number": 16,
+    "csc": "AMN",
+    "description": "Spain (Orange)"
+  },
+  {
+    "number": 17,
+    "csc": "AMO",
+    "description": "Spain (Movistar, Orange, Vodafone, Yoigo, Euskaltel, Jazztel, Tuenti, Eroski Movil, Neo, PTV Telecom, Ibercom)"
+  },
+  {
+    "number": 18,
+    "csc": "ANC",
+    "description": "Uruguay (Antel)"
+  },
+  {
+    "number": 19,
+    "csc": "AND",
+    "description": "Nigeria (MTN Nigeria, Glo Mobile, Zain Nigeria, Etisalat Nigeria)"
+  },
+  {
+    "number": 20,
+    "csc": "ANP",
+    "description": "Ireland"
+  },
+  {
+    "number": 21,
+    "csc": "ANY",
+    "description": "South Korea (Any)"
+  },
+  {
+    "number": 22,
+    "csc": "ARB",
+    "description": "United Arab Emirates (Etisalat, du)"
+  },
+  {
+    "number": 23,
+    "csc": "ARO",
+    "description": "Argentina (Personal, Claro, Movistar, Ancel, Vox, Tigo)"
+  },
+  {
+    "number": 24,
+    "csc": "ATC",
+    "description": "United States"
+  },
+  {
+    "number": 25,
+    "csc": "ATL",
+    "description": "Spain (Vodafone)"
+  },
+  {
+    "number": 26,
+    "csc": "ATO",
+    "description": "Austria (A1, Telekom Austria, Tele2, T-Mobile Austria, Orange, Tele.Ring, 3, Yesss!)"
+  },
+  {
+    "number": 27,
+    "csc": "ATT",
+    "description": "United States (AT&T)"
+  },
+  {
+    "number": 28,
+    "csc": "AUC",
+    "description": "France"
+  },
+  {
+    "number": 29,
+    "csc": "AUO",
+    "description": "Switzerland (Orange)"
+  },
+  {
+    "number": 30,
+    "csc": "AUT",
+    "description": "Switzerland (Sunrise, Swisscom, Orange)"
+  },
+  {
+    "number": 31,
+    "csc": "AVF",
+    "description": "Albania (Vodafone)"
+  },
+  {
+    "number": 32,
+    "csc": "AXI",
+    "description": "Indonesia"
+  },
+  {
+    "number": 33,
+    "csc": "AZC",
+    "description": "Russia"
+  },
+  {
+    "number": 34,
+    "csc": "BAE",
+    "description": "Belgium"
+  },
+  {
+    "number": 35,
+    "csc": "BAT",
+    "description": "Mexico"
+  },
+  {
+    "number": 36,
+    "csc": "BEN",
+    "description": "Netherlands"
+  },
+  {
+    "number": 37,
+    "csc": "BGD",
+    "description": "Singapore"
+  },
+  {
+    "number": 38,
+    "csc": "BGL",
+    "description": "Bulgaria (M-Tel, BG Globul, Vivacom)"
+  },
+  {
+    "number": 39,
+    "csc": "BHO",
+    "description": "Bosnia and Herzegovina"
+  },
+  {
+    "number": 40,
+    "csc": "BHT",
+    "description": "Bosnia and Herzegovina (BH Telecom)"
+  },
+  {
+    "number": 41,
+    "csc": "BKD",
+    "description": "Bangladesh"
+  },
+  {
+    "number": 42,
+    "csc": "BLA",
+    "description": "Algeria (Mobilis, Djezzy, Ooredoo)"
+  },
+  {
+    "number": 43,
+    "csc": "BLN",
+    "description": "Russia"
+  },
+  {
+    "number": 44,
+    "csc": "BLR",
+    "description": "Russia (MTS, Beeline, Megafon, Yota, Tele2, Velcom, Life, Azercell, Bakcell, Nar, Geocell, Magticom, VivaCell-MTS, Orange)"
+  },
+  {
+    "number": 45,
+    "csc": "BMC",
+    "description": "Canada (Bell Mobile)"
+  },
+  {
+    "number": 46,
+    "csc": "BME",
+    "description": "Sweden"
+  },
+  {
+    "number": 47,
+    "csc": "BNG",
+    "description": "Bangladesh (Grameenphone, Banglalink, Teletalk, Robi, Airtel)"
+  },
+  {
+    "number": 48,
+    "csc": "BOG",
+    "description": "France (Bouygues)"
+  },
+  {
+    "number": 49,
+    "csc": "BRI",
+    "description": "Taiwan (Chunghwa, KGT, Vibo)"
+  },
+  {
+    "number": 50,
+    "csc": "BSE",
+    "description": "Belgium (Mobistar, Proximus, Base, Tango, Post Telecom, Orange)"
+  },
+  {
+    "number": 51,
+    "csc": "BSG",
+    "description": "Sweden"
+  },
+  {
+    "number": 52,
+    "csc": "BST",
+    "description": "United States of America (Boost Mobile)"
+  },
+  {
+    "number": 53,
+    "csc": "BTA",
+    "description": "Brazil"
+  },
+  {
+    "number": 54,
+    "csc": "BTB",
+    "description": "United Kingdom (BT, BT One Phone)"
+  },
+  {
+    "number": 55,
+    "csc": "BTC",
+    "description": "Libya (Libyana, LibyaPhone, Almadar)"
+  },
+  {
+    "number": 56,
+    "csc": "BTE",
+    "description": "United Kingdom (BT)"
+  },
+  {
+    "number": 57,
+    "csc": "BTH",
+    "description": "Sweden"
+  },
+  {
+    "number": 58,
+    "csc": "BTM",
+    "description": "Brazil"
+  },
+  {
+    "number": 59,
+    "csc": "BTU",
+    "description": "UK & IRE (O2, Orange, Life Mobile, EE/T-Mobile, Virgin, Vodafone, BT Mobile, H3G, Asda, Meteor, Tesco Mobile Ireland, Talkmobile, TalkTalk)"
+  },
+  {
+    "number": 60,
+    "csc": "BVE",
+    "description": "Bolivia (Entel)"
+  },
+  {
+    "number": 61,
+    "csc": "BVO",
+    "description": "Bolivia (Movistar, Entel, Claro, GTD Movil, Viva, Tigo, Virgin Mobile, Nextel)"
+  },
+  {
+    "number": 62,
+    "csc": "BVT",
+    "description": "Bolivia"
+  },
+  {
+    "number": 63,
+    "csc": "BVV",
+    "description": "Bolivia"
+  },
+  {
+    "number": 64,
+    "csc": "BWA",
+    "description": "Canada (SaskTel)"
+  },
+  {
+    "number": 65,
+    "csc": "CAC",
+    "description": "Uzbekistan (Uztelecom, Ucell, Beeline, MTS)"
+  },
+  {
+    "number": 66,
+    "csc": "CAL",
+    "description": "Netherlands"
+  },
+  {
+    "number": 67,
+    "csc": "CAT",
+    "description": "Thailand"
+  },
+  {
+    "number": 68,
+    "csc": "CAU",
+    "description": "Caucasus- Armenia, Azerbaijan, Georgia, Southern Russia  (Ucell, Beeline, O!, Megacom, Tcell, MobiCom, Unitel, Azercell, Bakcell, Geocell, Orange)"
+  },
+  {
+    "number": 69,
+    "csc": "CAM",
+    "description": "Cambodia"
+  },
+  {
+    "number": 70,
+    "csc": "CCM",
+    "description": "Malaysia (Celcom)"
+  },
+  {
+    "number": 71,
+    "csc": "CCT",
+    "description": "United States (Xfinity Mobile / Comcast)"
+  },
+  {
+    "number": 72,
+    "csc": "CDR",
+    "description": "Dominican Republic (Claro, Altice, Viva)"
+  },
+  {
+    "number": 73,
+    "csc": "CEL",
+    "description": "Israel (Cellcom)"
+  },
+  {
+    "number": 74,
+    "csc": "CEN",
+    "description": "Puerto Rico"
+  },
+  {
+    "number": 75,
+    "csc": "CGU",
+    "description": "Colombia, Guatemala (Tigo)"
+  },
+  {
+    "number": 76,
+    "csc": "CHA",
+    "description": "United States (Spectrum Mobile)"
+  },
+  {
+    "number": 77,
+    "csc": "CHB",
+    "description": "Chile"
+  },
+  {
+    "number": 78,
+    "csc": "CHC",
+    "description": "China"
+  },
+  {
+    "number": 79,
+    "csc": "CHE",
+    "description": "Chile (Entel PCS)"
+  },
+  {
+    "number": 80,
+    "csc": "CHF",
+    "description": "Chile (Entel Falabella)"
+  },
+  {
+    "number": 81,
+    "csc": "CHG",
+    "description": "Chile (Virgin Mobile)"
+  },
+  {
+    "number": 82,
+    "csc": "CHL",
+    "description": "Chile (Claro)"
+  },
+  {
+    "number": 83,
+    "csc": "CHM",
+    "description": "China (China Mobile)"
+  },
+  {
+    "number": 84,
+    "csc": "CHN",
+    "description": "China"
+  },
+  {
+    "number": 85,
+    "csc": "CHO",
+    "description": "Chile (Entel, WOM, Claro)"
+  },
+  {
+    "number": 86,
+    "csc": "CHR",
+    "description": "Canada (Chatr Mobile)"
+  },
+  {
+    "number": 87,
+    "csc": "CHT",
+    "description": "Chile (Telefonica)"
+  },
+  {
+    "number": 88,
+    "csc": "CHV",
+    "description": "Chile (VTR)"
+  },
+  {
+    "number": 89,
+    "csc": "CHU",
+    "description": "China"
+  },
+  {
+    "number": 90,
+    "csc": "CHV",
+    "description": "Chile (VTR)"
+  },
+  {
+    "number": 91,
+    "csc": "CHX",
+    "description": "Chile (Nextel)"
+  },
+  {
+    "number": 92,
+    "csc": "CIT",
+    "description": "Italy (TIM, Vodafone, Wind, H3G)"
+  },
+  {
+    "number": 93,
+    "csc": "CLN",
+    "description": "Canada (Clearnet)"
+  },
+  {
+    "number": 94,
+    "csc": "CMC",
+    "description": "China"
+  },
+  {
+    "number": 95,
+    "csc": "CMF",
+    "description": "Bulgaria (Cosmofon)"
+  },
+  {
+    "number": 96,
+    "csc": "CNX",
+    "description": "Romania (Vodafone)"
+  },
+  {
+    "number": 97,
+    "csc": "COA",
+    "description": "Romania (Cosmote)"
+  },
+  {
+    "number": 98,
+    "csc": "COB",
+    "description": "Colombia (Movistar)"
+  },
+  {
+    "number": 99,
+    "csc": "COD",
+    "description": "Colombia Avancel (Avantel, Claro, ETB 4G, Virgin Mobile1, Virgin Mobile2)"
+  },
+  {
+    "number": 100,
+    "csc": "COE",
+    "description": "Colombia (ETB)"
+  },
+  {
+    "number": 101,
+    "csc": "COL",
+    "description": "Colombia (Tigo Une)"
+  },
+  {
+    "number": 102,
+    "csc": "COM",
+    "description": "Colombia (Comcel)"
+  },
+  {
+    "number": 103,
+    "csc": "COO",
+    "description": "Colombia (Claro, Movistar, Avantel, Virgin Mobile)"
+  },
+  {
+    "number": 104,
+    "csc": "COR",
+    "description": "France"
+  },
+  {
+    "number": 105,
+    "csc": "COS",
+    "description": "Greece (Cosmote)"
+  },
+  {
+    "number": 106,
+    "csc": "COV",
+    "description": "Sweden (Tele2)"
+  },
+  {
+    "number": 107,
+    "csc": "CPA",
+    "description": "Panama (Claro)"
+  },
+  {
+    "number": 108,
+    "csc": "CPW",
+    "description": "United Kingdom (Carphone Warehouse)"
+  },
+  {
+    "number": 109,
+    "csc": "CRC",
+    "description": "Costa Rica (Claro, Kolbi, Liberty)"
+  },
+  {
+    "number": 110,
+    "csc": "CRG",
+    "description": "Croatia"
+  },
+  {
+    "number": 111,
+    "csc": "CRI",
+    "description": "United States (Cricket)"
+  },
+  {
+    "number": 112,
+    "csc": "CRM",
+    "description": "South American Countries- Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Falkland Islands, French Guiana, Paraguay. Peru, Suriname. Uruguay, Venezuala (Movistar)"
+  },
+  {
+    "number": 113,
+    "csc": "CRO",
+    "description": "Croatia (T-Mobile/HR Telecom)"
+  },
+  {
+    "number": 114,
+    "csc": "CSC",
+    "description": "Uzbekistan"
+  },
+  {
+    "number": 115,
+    "csc": "CST",
+    "description": "Dominica"
+  },
+  {
+    "number": 116,
+    "csc": "CTC",
+    "description": "China (China Telecom)"
+  },
+  {
+    "number": 117,
+    "csc": "CTE",
+    "description": "Honduras (Tigo)"
+  },
+  {
+    "number": 118,
+    "csc": "CTF",
+    "description": "Canada (Cityfone)"
+  },
+  {
+    "number": 119,
+    "csc": "CTI",
+    "description": "Argentina (Claro)"
+  },
+  {
+    "number": 120,
+    "csc": "CTP",
+    "description": "Paraguay (Claro)"
+  },
+  {
+    "number": 121,
+    "csc": "CTU",
+    "description": "Argentina, Uruguay (Claro)"
+  },
+  {
+    "number": 122,
+    "csc": "CUH",
+    "description": "China"
+  },
+  {
+    "number": 123,
+    "csc": "CWT",
+    "description": "Taiwan (Chunghwa Telecom, Far Eastone, KGT, TWM Mobile, Vibo)"
+  },
+  {
+    "number": 124,
+    "csc": "CWW",
+    "description": "Jamaica (Lime)"
+  },
+  {
+    "number": 125,
+    "csc": "CYO",
+    "description": "Greece (Cytamobile Vodafone)"
+  },
+  {
+    "number": 126,
+    "csc": "CYV",
+    "description": "Cyprus (Vodafone)"
+  },
+  {
+    "number": 127,
+    "csc": "DAM",
+    "description": "Lebanon (Zain JO, Umniah, Orange, Alfa, Wataniya, MTN, Zain IQ, Asia Cell, Korek, Etisalat, du)"
+  },
+  {
+    "number": 128,
+    "csc": "DBE",
+    "description": "Netherlands (T-Mobile NL, Ben NL)"
+  },
+  {
+    "number": 129,
+    "csc": "DBT",
+    "description": "Germany (Telekom, Vodafone, E-Plus, O2, 1&1, Lebara, Smartmobil.de)"
+  },
+  {
+    "number": 130,
+    "csc": "DCM",
+    "description": "Japan (NTT Docomo, Rakuten Mobile)"
+  },
+  {
+    "number": 131,
+    "csc": "DCN",
+    "description": "Dominica"
+  },
+  {
+    "number": 132,
+    "csc": "DDE",
+    "description": "Germany (Congstar)"
+  },
+  {
+    "number": 133,
+    "csc": "DGC",
+    "description": "El Salvador"
+  },
+  {
+    "number": 134,
+    "csc": "DGI",
+    "description": "Malaysia (DiGi)"
+  },
+  {
+    "number": 135,
+    "csc": "DGT",
+    "description": "Venezuela (Digitel)"
+  },
+  {
+    "number": 136,
+    "csc": "DHR",
+    "description": "Croatia (Bonbon)"
+  },
+  {
+    "number": 137,
+    "csc": "DKR",
+    "description": "Senegal, Kenya (Safaricom, Zain, Orange, Econet, Vodacom)"
+  },
+  {
+    "number": 138,
+    "csc": "DIX",
+    "description": "France"
+  },
+  {
+    "number": 139,
+    "csc": "DNA",
+    "description": "Vietnam"
+  },
+  {
+    "number": 140,
+    "csc": "DNF",
+    "description": "Finland (DNA)"
+  },
+  {
+    "number": 141,
+    "csc": "DNL",
+    "description": "Netherlands (Ben NL)"
+  },
+  {
+    "number": 142,
+    "csc": "DOO",
+    "description": "Dominican Republic"
+  },
+  {
+    "number": 143,
+    "csc": "DOR",
+    "description": "Dominican Republic (Orange)"
+  },
+  {
+    "number": 144,
+    "csc": "DPL",
+    "description": "Poland (Heyah)"
+  },
+  {
+    "number": 145,
+    "csc": "DRC",
+    "description": "Kenya (Safaricom, Zain, Orange, Econet, Vodacom)"
+  },
+  {
+    "number": 146,
+    "csc": "DRE",
+    "description": "Austria (3 Hutchinson)"
+  },
+  {
+    "number": 147,
+    "csc": "DSA",
+    "description": "United States"
+  },
+  {
+    "number": 148,
+    "csc": "DSG",
+    "description": "United States"
+  },
+  {
+    "number": 149,
+    "csc": "DTL",
+    "description": "Denmark"
+  },
+  {
+    "number": 150,
+    "csc": "DTM",
+    "description": "Germany (T-Mobile)"
+  },
+  {
+    "number": 151,
+    "csc": "DTR",
+    "description": "Germany (TeleKom.de)"
+  },
+  {
+    "number": 152,
+    "csc": "DUT",
+    "description": "Germany"
+  },
+  {
+    "number": 153,
+    "csc": "EBE",
+    "description": "Ecuador (Movistar)"
+  },
+  {
+    "number": 154,
+    "csc": "ECO",
+    "description": "Ecuador (Claro)"
+  },
+  {
+    "number": 155,
+    "csc": "ECT",
+    "description": "Nigeria (MTN, Glo Mobile, Zain, Etisalat)"
+  },
+  {
+    "number": 156,
+    "csc": "EGY",
+    "description": "Egypt (Mobinil, Vodafone, Etisalat)"
+  },
+  {
+    "number": 157,
+    "csc": "EIR",
+    "description": "Ireland (Eir)"
+  },
+  {
+    "number": 158,
+    "csc": "ELS",
+    "description": "Finland"
+  },
+  {
+    "number": 159,
+    "csc": "EMT",
+    "description": "Russia"
+  },
+  {
+    "number": 160,
+    "csc": "EON",
+    "description": "Ecuador (Claro / Telcel, Movistar CNT)"
+  },
+  {
+    "number": 161,
+    "csc": "EPL",
+    "description": "Germany (E-Plus)"
+  },
+  {
+    "number": 162,
+    "csc": "ERA",
+    "description": "Poland (T-Mobile)"
+  },
+  {
+    "number": 163,
+    "csc": "ERO",
+    "description": "Bosnia and Herzegovina (HT Eronet)"
+  },
+  {
+    "number": 164,
+    "csc": "ERS",
+    "description": "Russia"
+  },
+  {
+    "number": 165,
+    "csc": "ESK",
+    "description": "Canada (EastLink)"
+  },
+  {
+    "number": 166,
+    "csc": "EST",
+    "description": "Kazakhstan"
+  },
+  {
+    "number": 167,
+    "csc": "ETE",
+    "description": "El Salvador (Tigo)"
+  },
+  {
+    "number": 168,
+    "csc": "ETL",
+    "description": "Czechia (T-Mobile, O2, Vodafone)"
+  },
+  {
+    "number": 169,
+    "csc": "ETR",
+    "description": "Bangladesh (Grameenphone, Banglalink, Teletalk, Robi, Airtel)"
+  },
+  {
+    "number": 170,
+    "csc": "ETT",
+    "description": "Kenya (Safaricom, Zain, Orange, Econet, Vodacom)"
+  },
+  {
+    "number": 171,
+    "csc": "EUR",
+    "description": "Greece (Wind, Vodafone, Cosmote)"
+  },
+  {
+    "number": 172,
+    "csc": "EUS",
+    "description": "Spain"
+  },
+  {
+    "number": 173,
+    "csc": "EUX",
+    "description": "European Region (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland)"
+  },
+  {
+    "number": 174,
+    "csc": "EUY",
+    "description": "European Union (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland)"
+  },
+  {
+    "number": 175,
+    "csc": "EVR",
+    "description": "United Kingdom (T-Mobile UK, Orange)"
+  },
+  {
+    "number": 176,
+    "csc": "FAM",
+    "description": "Philippines"
+  },
+  {
+    "number": 177,
+    "csc": "FIZ",
+    "description": "Canada"
+  },
+  {
+    "number": 178,
+    "csc": "FKR",
+    "description": "United States"
+  },
+  {
+    "number": 179,
+    "csc": "FET",
+    "description": "Taiwan (Far Eastone)"
+  },
+  {
+    "number": 180,
+    "csc": "FMC",
+    "description": "Canada (Fido Mobile)"
+  },
+  {
+    "number": 181,
+    "csc": "FME",
+    "description": "Malaysia"
+  },
+  {
+    "number": 182,
+    "csc": "FMG",
+    "description": "Malaysia"
+  },
+  {
+    "number": 183,
+    "csc": "FNC",
+    "description": "France (FNC)"
+  },
+  {
+    "number": 184,
+    "csc": "FOP",
+    "description": "Spain (Movistar, Vodafone, Orange, Yoigo, Mobil R, Euskaltel, Telecable, Blau, Simyo)"
+  },
+  {
+    "number": 185,
+    "csc": "FPT",
+    "description": "Vietnam"
+  },
+  {
+    "number": 186,
+    "csc": "FRE",
+    "description": "France (Free Mobile)"
+  },
+  {
+    "number": 187,
+    "csc": "FTB",
+    "description": "France"
+  },
+  {
+    "number": 188,
+    "csc": "FTD",
+    "description": "Ukraine (Vodafone Ukraine, Kyivstar, Beeline UA, TriMob, Jeans, Djuice)"
+  },
+  {
+    "number": 189,
+    "csc": "FTM",
+    "description": "France (Orange)"
+  },
+  {
+    "number": 190,
+    "csc": "FWB",
+    "description": "Italy"
+  },
+  {
+    "number": 191,
+    "csc": "FWD",
+    "description": "Morocco (Maroc Telecom, Orange, Inwi)"
+  },
+  {
+    "number": 192,
+    "csc": "GBL",
+    "description": "Bulgaria (BG Globul)"
+  },
+  {
+    "number": 193,
+    "csc": "GCF",
+    "description": "United States (Global Certification Forum)"
+  },
+  {
+    "number": 194,
+    "csc": "GCR",
+    "description": "Nigeria"
+  },
+  {
+    "number": 195,
+    "csc": "GEO",
+    "description": "Russia"
+  },
+  {
+    "number": 196,
+    "csc": "GER",
+    "description": "Greece"
+  },
+  {
+    "number": 197,
+    "csc": "GHA",
+    "description": "Ghana (MTN Ghana, AirtelTigo Ghana, Glo Ghana, Vodafone Ghana)"
+  },
+  {
+    "number": 198,
+    "csc": "GLB",
+    "description": "Philippines (Globe)"
+  },
+  {
+    "number": 199,
+    "csc": "GLO",
+    "description": "Guatemala"
+  },
+  {
+    "number": 200,
+    "csc": "GLW",
+    "description": "Canada (Globalive Wind)"
+  },
+  {
+    "number": 201,
+    "csc": "GOM",
+    "description": "Italy"
+  },
+  {
+    "number": 202,
+    "csc": "GTL",
+    "description": "Slovakia"
+  },
+  {
+    "number": 203,
+    "csc": "GTO",
+    "description": "Guatemala"
+  },
+  {
+    "number": 204,
+    "csc": "GWL",
+    "description": "Canada (Freedom Mobile)"
+  },
+  {
+    "number": 205,
+    "csc": "H3G",
+    "description": "United Kingdom (Three)"
+  },
+  {
+    "number": 206,
+    "csc": "HAT",
+    "description": "Romania (Orange RO, Vodafone RO, Cosmote)"
+  },
+  {
+    "number": 207,
+    "csc": "HME",
+    "description": "Honduras (Claro HN)"
+  },
+  {
+    "number": 208,
+    "csc": "HTD",
+    "description": "Denmark (3)"
+  },
+  {
+    "number": 209,
+    "csc": "HTS",
+    "description": "Sweden (3 SE)"
+  },
+  {
+    "number": 210,
+    "csc": "HUI",
+    "description": "Italy (H3G)"
+  },
+  {
+    "number": 211,
+    "csc": "HUT",
+    "description": "Australia (3, Vodafone)"
+  },
+  {
+    "number": 212,
+    "csc": "ICE",
+    "description": "Costa Rica (Kolbi, Liberty, Claro)"
+  },
+  {
+    "number": 213,
+    "csc": "IDE",
+    "description": "Poland (Orange)"
+  },
+  {
+    "number": 214,
+    "csc": "IEL",
+    "description": "Nigeria (Etisalat, MTN Nigeria, Glo Mobile, Zain Nigeria)"
+  },
+  {
+    "number": 215,
+    "csc": "ILO",
+    "description": "Israel (HotMobile)"
+  },
+  {
+    "number": 216,
+    "csc": "ILP",
+    "description": "Lebanon"
+  },
+  {
+    "number": 217,
+    "csc": "IMS",
+    "description": "India"
+  },
+  {
+    "number": 218,
+    "csc": "INA",
+    "description": "India"
+  },
+  {
+    "number": 219,
+    "csc": "IND",
+    "description": "India"
+  },
+  {
+    "number": 220,
+    "csc": "INS",
+    "description": "India (Airtel, BSNL, Vodafone Idea, Jio)"
+  },
+  {
+    "number": 221,
+    "csc": "INT",
+    "description": "China"
+  },
+  {
+    "number": 222,
+    "csc": "INU",
+    "description": "India (unbranded)"
+  },
+  {
+    "number": 223,
+    "csc": "IRD",
+    "description": "Slovakia (Orange)"
+  },
+  {
+    "number": 224,
+    "csc": "IRS",
+    "description": "C?´te dâ€™Ivoire"
+  },
+  {
+    "number": 225,
+    "csc": "ITV",
+    "description": "Italy (Vodafone, WIND, Fastweb)"
+  },
+  {
+    "number": 226,
+    "csc": "IUS",
+    "description": "Mexico (Iusacell)"
+  },
+  {
+    "number": 227,
+    "csc": "JBS",
+    "description": "Jamaica"
+  },
+  {
+    "number": 228,
+    "csc": "JCN",
+    "description": "Jamaica"
+  },
+  {
+    "number": 229,
+    "csc": "JCW",
+    "description": "Jamaica"
+  },
+  {
+    "number": 230,
+    "csc": "JDI",
+    "description": "Jamaica (Digicel)"
+  },
+  {
+    "number": 231,
+    "csc": "JED",
+    "description": "Saudi Arabia (STC, Mobily, Zain)"
+  },
+  {
+    "number": 232,
+    "csc": "KBN",
+    "description": "Czechia"
+  },
+  {
+    "number": 233,
+    "csc": "KCL",
+    "description": "Kazakhstan (Beeline, Kcell, Activ, NEO)"
+  },
+  {
+    "number": 234,
+    "csc": "KDI",
+    "description": "Japan (KDDI)"
+  },
+  {
+    "number": 235,
+    "csc": "KDO",
+    "description": "Canada (Koodo Mobile)"
+  },
+  {
+    "number": 236,
+    "csc": "KEL",
+    "description": "Kenya"
+  },
+  {
+    "number": 237,
+    "csc": "KEN",
+    "description": "Kenya (Safaricom, Zain, Orange, Econet, Vodacom)"
+  },
+  {
+    "number": 238,
+    "csc": "KMB",
+    "description": "Kazakhstan"
+  },
+  {
+    "number": 239,
+    "csc": "KOO",
+    "description": "South Korea (KOO)"
+  },
+  {
+    "number": 240,
+    "csc": "KOR",
+    "description": "South Korea (Gumi, Suwon)"
+  },
+  {
+    "number": 241,
+    "csc": "KPN",
+    "description": "Netherlands (NL KPN)"
+  },
+  {
+    "number": 242,
+    "csc": "KPP",
+    "description": "Netherlands (NL KPN, Telfort)"
+  },
+  {
+    "number": 243,
+    "csc": "KSA",
+    "description": "Saudi Arabia (STC, Mobily, Zain)"
+  },
+  {
+    "number": 244,
+    "csc": "KSG",
+    "description": "Unknown"
+  },
+  {
+    "number": 245,
+    "csc": "KSS",
+    "description": "United Arab Emirates (STC)"
+  },
+  {
+    "number": 246,
+    "csc": "KSZ",
+    "description": "Saudi Arabia (Zain)"
+  },
+  {
+    "number": 247,
+    "csc": "KTC",
+    "description": "South Korea (KT Corporation)"
+  },
+  {
+    "number": 248,
+    "csc": "KTO",
+    "description": "South Korea (KTO)"
+  },
+  {
+    "number": 249,
+    "csc": "KTT",
+    "description": "South Korea (KT Corporation)"
+  },
+  {
+    "number": 250,
+    "csc": "KVK",
+    "description": "T??rkiye"
+  },
+  {
+    "number": 251,
+    "csc": "KVR",
+    "description": "Ukraine"
+  },
+  {
+    "number": 252,
+    "csc": "KZK",
+    "description": "Kazakhstan"
+  },
+  {
+    "number": 253,
+    "csc": "LAO",
+    "description": "Thailand"
+  },
+  {
+    "number": 254,
+    "csc": "LEB",
+    "description": "Lebanon (Zain JO, Umniah, Orange JO, Alfa, MTC-Touch, Jawwal, Wataniya, Syriatel, MTN, Zain IQ, Asia Cell, Korek, Mobitel)"
+  },
+  {
+    "number": 255,
+    "csc": "LEV",
+    "description": "Jordan (ETISALAT, du)"
+  },
+  {
+    "number": 256,
+    "csc": "LGT",
+    "description": "South Korea (LG U+)"
+  },
+  {
+    "number": 257,
+    "csc": "LLA",
+    "description": "Puerto Rico"
+  },
+  {
+    "number": 258,
+    "csc": "LPM",
+    "description": "France (La Poste Mobile)"
+  },
+  {
+    "number": 259,
+    "csc": "LRA",
+    "description": "United States (Bluegrass Cellular)"
+  },
+  {
+    "number": 260,
+    "csc": "LUC",
+    "description": "South Korea (LG U+)"
+  },
+  {
+    "number": 261,
+    "csc": "LUO",
+    "description": "South Korea (LUO)"
+  },
+  {
+    "number": 262,
+    "csc": "LUX",
+    "description": "Luxemburg (Mobistar, Proximus, Base, Telenet, Tango, Post Telecom, Orange Luxembourg)"
+  },
+  {
+    "number": 263,
+    "csc": "LYS",
+    "description": "Libya, UAE (Almadar, Libyana)"
+  },
+  {
+    "number": 264,
+    "csc": "M00",
+    "description": "China"
+  },
+  {
+    "number": 265,
+    "csc": "MAN",
+    "description": "Germany"
+  },
+  {
+    "number": 266,
+    "csc": "MAT",
+    "description": "Morocco (MAT)"
+  },
+  {
+    "number": 267,
+    "csc": "MAX",
+    "description": "Austria (T-Mobile)"
+  },
+  {
+    "number": 268,
+    "csc": "MBC",
+    "description": "Germany"
+  },
+  {
+    "number": 269,
+    "csc": "MBM",
+    "description": "North Macedonia (T-Mobile)"
+  },
+  {
+    "number": 270,
+    "csc": "MCT",
+    "description": "Canada (Mobilicity)"
+  },
+  {
+    "number": 271,
+    "csc": "MDR",
+    "description": "Montenegro, Serbia"
+  },
+  {
+    "number": 272,
+    "csc": "MED",
+    "description": "Morocco (Orange)"
+  },
+  {
+    "number": 273,
+    "csc": "MEO",
+    "description": "Portugal (TMN)"
+  },
+  {
+    "number": 274,
+    "csc": "MET",
+    "description": "Ireland (Meteor)"
+  },
+  {
+    "number": 275,
+    "csc": "MGF",
+    "description": "Russia (MTS, Beeline, MegaFon, Tele2)"
+  },
+  {
+    "number": 276,
+    "csc": "MID",
+    "description": "Iraq, United Arab Emirates (Zain JO, Umniah, Orange, Alfa, MTC-Touch, Jawwal, Wataniya, Syriatel, MTN, Zain IQ, Asia Cell, Korek, Etisalat, du)"
+  },
+  {
+    "number": 277,
+    "csc": "MIG",
+    "description": "Switzerland (Sunrise, Swisscom, Orange, Mobilkom)"
+  },
+  {
+    "number": 278,
+    "csc": "MIS",
+    "description": "Malaysia (Maxis)"
+  },
+  {
+    "number": 279,
+    "csc": "MKO",
+    "description": "Macedonia (T-Mobile, Lycamobile, A1 Macedonia)"
+  },
+  {
+    "number": 280,
+    "csc": "MM1",
+    "description": "Singapore (M1 Singapore)"
+  },
+  {
+    "number": 281,
+    "csc": "MMC",
+    "description": "Libya (Almadar, Libyana)"
+  },
+  {
+    "number": 282,
+    "csc": "MML",
+    "description": "Nigeria"
+  },
+  {
+    "number": 283,
+    "csc": "MMO",
+    "description": "Netherlands"
+  },
+  {
+    "number": 284,
+    "csc": "MNX",
+    "description": "Mexico (Nextel)"
+  },
+  {
+    "number": 285,
+    "csc": "MOB",
+    "description": "Austria (A1)"
+  },
+  {
+    "number": 286,
+    "csc": "MOT",
+    "description": "Slovenia (Mobitel)"
+  },
+  {
+    "number": 287,
+    "csc": "MOZ",
+    "description": "Switzerland (Sunrise Swisscom Orange)"
+  },
+  {
+    "number": 288,
+    "csc": "MPC",
+    "description": "Mongolia"
+  },
+  {
+    "number": 289,
+    "csc": "MRT",
+    "description": "Mauritania (Zain Sudan)"
+  },
+  {
+    "number": 290,
+    "csc": "MRU",
+    "description": "Mauritius (Orange)"
+  },
+  {
+    "number": 291,
+    "csc": "MSG",
+    "description": "Ukraine (Vodafone Ukraine, Kyivstar, Lifecell, Beeline UA, TriMob (Utel), Jeans, Kyivstar A&B, Djuice)"
+  },
+  {
+    "number": 292,
+    "csc": "MSR",
+    "description": "Serbia (Telenor)"
+  },
+  {
+    "number": 293,
+    "csc": "MST",
+    "description": "Belgium (Mobistar, Proximus, Base, Telenet, Tango, Post Telecom, Orange Luxembourg)"
+  },
+  {
+    "number": 294,
+    "csc": "MTA",
+    "description": "Canada (MTA, MTS, CTF Cityfone, TBT Tbaytel)"
+  },
+  {
+    "number": 295,
+    "csc": "MTB",
+    "description": "Belarus"
+  },
+  {
+    "number": 296,
+    "csc": "MTE",
+    "description": "Bulgaria"
+  },
+  {
+    "number": 297,
+    "csc": "MTL",
+    "description": "Bulgaria (M-Tel BG)"
+  },
+  {
+    "number": 298,
+    "csc": "MTN",
+    "description": "Uganda (MTN)"
+  },
+  {
+    "number": 299,
+    "csc": "MTR",
+    "description": "Canada (MetroPCS)"
+  },
+  {
+    "number": 300,
+    "csc": "MTV",
+    "description": "Russia"
+  },
+  {
+    "number": 301,
+    "csc": "MTZ",
+    "description": "Zambia (MTN)"
+  },
+  {
+    "number": 302,
+    "csc": "MVL",
+    "description": "Venezuela (Movilnet)"
+  },
+  {
+    "number": 303,
+    "csc": "MWD",
+    "description": "Morocco (MWD)"
+  },
+  {
+    "number": 304,
+    "csc": "MXO",
+    "description": "Mexico"
+  },
+  {
+    "number": 305,
+    "csc": "MXS",
+    "description": "Malaysia"
+  },
+  {
+    "number": 306,
+    "csc": "MYM",
+    "description": "Thailand (MPT, Mectel)"
+  },
+  {
+    "number": 307,
+    "csc": "NBS",
+    "description": "Nicaragua (Movistar)"
+  },
+  {
+    "number": 308,
+    "csc": "NED",
+    "description": "Algeria (Mobilis, Djezzy, Nedjma)"
+  },
+  {
+    "number": 309,
+    "csc": "NEE",
+    "description": "Nordic Countries- Denmark, Finland, Greenland, Iceland, Norway, Sweden (Halebop, Aina, Spring, Telenor, NetCom, Call me and DLG Tele, Mobile Norway, DNA, Fin Sonera Telia, DK TDC, Telenor, Telmore, 3, Nova, Vodafone Iceland, Siminn, Tusass, Ventelo)"
+  },
+  {
+    "number": 310,
+    "csc": "NEN",
+    "description": "Nicaragua (Claro Movil)"
+  },
+  {
+    "number": 311,
+    "csc": "NPL",
+    "description": "Nepal (Nepal Telecom, Smart Telecom, Ncell, UTL)"
+  },
+  {
+    "number": 312,
+    "csc": "NRJ",
+    "description": "France (NRJ Mobile)"
+  },
+  {
+    "number": 313,
+    "csc": "NZC",
+    "description": "New Zealand (2 Degrees)"
+  },
+  {
+    "number": 314,
+    "csc": "O2C",
+    "description": "Czechia (O2)"
+  },
+  {
+    "number": 315,
+    "csc": "O2I",
+    "description": "Ireland (O2)"
+  },
+  {
+    "number": 316,
+    "csc": "O2U",
+    "description": "United Kingdom (O2)"
+  },
+  {
+    "number": 317,
+    "csc": "OAR",
+    "description": "Armenia"
+  },
+  {
+    "number": 318,
+    "csc": "ODD (Multi-CSC)",
+    "description": "INU, INS, ETR, TML, SLK, NPL"
+  },
+  {
+    "number": 319,
+    "csc": "ODK",
+    "description": "Denmark (Telia)"
+  },
+  {
+    "number": 320,
+    "csc": "OFR",
+    "description": "France"
+  },
+  {
+    "number": 321,
+    "csc": "OJK (Multi-CSC)",
+    "description": "ILO, MIR, PCL, PTR"
+  },
+  {
+    "number": 322,
+    "csc": "OJP (Multi-CSC)",
+    "description": "Middle East Countries (BTC, EGY, JED, KOR, KSA, MAT, MED, MID, MMV, MWD, PAK, THR, WAN, XSG, XSS)"
+  },
+  {
+    "number": 323,
+    "csc": "OJV (Multi-CSC)",
+    "description": "Middle East Countries (ABS, ACR, AFG, AFR, ARB, BTC, ECT, EGY, FWD, JED, KEN, KSA, LYS, MAT, MED, MID, MMC, MRT, MWD, PAK, THR, TMC, TUN, TUR, WAN, WTL, XFA, XFC, XFE, XFM, XFV, XSG)"
+  },
+  {
+    "number": 324,
+    "csc": "OLB (Multi-CSC)",
+    "description": "GLB, MM1, SIN, SMA, STH, THL, XEV, XME, XSE, XSP, XTC, XTE, XXV (Malaysia, Philippines, Thailand, Vietnam)"
+  },
+  {
+    "number": 325,
+    "csc": "OLC (Multi-CSC)",
+    "description": "MM1, SIN, STH, XSP"
+  },
+  {
+    "number": 326,
+    "csc": "OMD",
+    "description": "Ukraine (Orange MD)"
+  },
+  {
+    "number": 327,
+    "csc": "OMN",
+    "description": "Italy (Vodafone)"
+  },
+  {
+    "number": 328,
+    "csc": "OMX",
+    "description": "Bulgaria"
+  },
+  {
+    "number": 329,
+    "csc": "ONE",
+    "description": "Austria (Orange)"
+  },
+  {
+    "number": 330,
+    "csc": "ONL",
+    "description": "Netherlands"
+  },
+  {
+    "number": 331,
+    "csc": "OPP",
+    "description": "Australia (Optus, Virgin Mobile)"
+  },
+  {
+    "number": 332,
+    "csc": "OPS",
+    "description": "Australia (Optus)"
+  },
+  {
+    "number": 333,
+    "csc": "OPT",
+    "description": "Portugal (Optimus)"
+  },
+  {
+    "number": 334,
+    "csc": "OPV",
+    "description": "Poland"
+  },
+  {
+    "number": 335,
+    "csc": "ORA",
+    "description": "United Kingdom (Orange)"
+  },
+  {
+    "number": 336,
+    "csc": "ORC",
+    "description": "France"
+  },
+  {
+    "number": 337,
+    "csc": "ORG",
+    "description": "Switzerland"
+  },
+  {
+    "number": 338,
+    "csc": "ORF",
+    "description": "France"
+  },
+  {
+    "number": 339,
+    "csc": "ORL",
+    "description": "Romania (Orange)"
+  },
+  {
+    "number": 340,
+    "csc": "ORN",
+    "description": "France"
+  },
+  {
+    "number": 341,
+    "csc": "ORO",
+    "description": "Romania (Orange)"
+  },
+  {
+    "number": 342,
+    "csc": "ORR",
+    "description": "Switzerland (Orange)"
+  },
+  {
+    "number": 343,
+    "csc": "ORS",
+    "description": "Slovakia (Orange)"
+  },
+  {
+    "number": 344,
+    "csc": "ORX",
+    "description": "Slovakia (T-Mobile SK, O2 SK)"
+  },
+  {
+    "number": 345,
+    "csc": "OSK",
+    "description": "Czechia"
+  },
+  {
+    "number": 346,
+    "csc": "OTU",
+    "description": "Tunisia (Orange)"
+  },
+  {
+    "number": 347,
+    "csc": "OVF",
+    "description": "South Africa (Vodafone)"
+  },
+  {
+    "number": 348,
+    "csc": "OWE (Multi-CSC)",
+    "description": "ANC, CHE, DOR, CWW, BAT"
+  },
+  {
+    "number": 349,
+    "csc": "OWO (Multi-CSC)",
+    "description": "ARO, BVO, BVT, CDR, CGU, CHL, CHT, COB, COL, COM, COO, CPA, CRC, CTI, CTU, EBE, ECO, IUS, MXO, NBS, PEO, PET, PGU, PNT, PSN, PSP, SAM, TCE, TGP, TMM, TPA, UFN, UFU, UPO, ZTA, ZTM, ZTO, ZVV"
+  },
+  {
+    "number": 350,
+    "csc": "OXA (Multi-CSC)",
+    "description": "BTU, CPW, DBT, ITV, KOR, XEF, XEO (France, Germany, Italy, Poland, United Kingdom)"
+  },
+  {
+    "number": 351,
+    "csc": "OXE (Multi-CSC)",
+    "description": "CAC, RTL, SEK, SER, SKZ (Kazakhstan, Russia, United Arab Emirates)"
+  },
+  {
+    "number": 352,
+    "csc": "OXF (Multi-CSC)",
+    "description": "ALB, BGL, CMF, ORL, SEB, TMT, TOP, TRA, XEH"
+  },
+  {
+    "number": 353,
+    "csc": "OXI (Multi-CSC)",
+    "description": "Italy (ITV, OMN)"
+  },
+  {
+    "number": 354,
+    "csc": "OXM (Multi-CSC)",
+    "description": "ACR, AFG, AFR, AUT, BKD, BOG, BTB, BTE, BTU, CAU, CPW, DBT, DKR, ECT, EGY, EUX, EVR, FWD, GLB, ILO, ILP, INS, KSA, LYS, MEO, MET, MID, MM1, MOB, MOT, MSR, MWD, NPL, O2C, OPS, PKD, PLS, PRT, SEK, SER, SFR, SIM, SIN, SKZ, SLK, STH, SWC, TEL, THL, TIM, TOP, TSI, TUN, TUR, VAU, VIP, WWA, WWC, WWD, XEF, XFA, XFE, XFV, XME, XNZ, XSA, XSG, XSP"
+  },
+  {
+    "number": 355,
+    "csc": "OXX (Multi-CSC)",
+    "description": "BGL, CYO, ERO, EUR, MSR, ORS, PHE, SEE, SIO, TPH, TSR, TWO, VVT, XEF, XEO, XEZ, XSK (Greece, Montenegro, Poland, Portugal, Romania, Serbia, Slovakia, South Africa, Switzerland)"
+  },
+  {
+    "number": 356,
+    "csc": "OYA (Multi-CSC)",
+    "description": "BMC, BWA, FMC, KDO, MTA, PCM, RWC, SOL, SPC, TLS, VMC"
+  },
+  {
+    "number": 357,
+    "csc": "OYM (Multi-CSC)",
+    "description": "United States (XAA)"
+  },
+  {
+    "number": 358,
+    "csc": "OYN (Multi-CSC)",
+    "description": "United States of America (ATT, VZW, TMB, USC, XAA)"
+  },
+  {
+    "number": 359,
+    "csc": "OZS (Multi-CSC)",
+    "description": "TGY, BRI"
+  },
+  {
+    "number": 360,
+    "csc": "PAK",
+    "description": "Pakistan (Jazz, Ufone, Zong, Telenor, Ufone)"
+  },
+  {
+    "number": 361,
+    "csc": "PAN",
+    "description": "Hungary (Telenor)"
+  },
+  {
+    "number": 362,
+    "csc": "PAP",
+    "description": "Europe (PAP)"
+  },
+  {
+    "number": 363,
+    "csc": "PBS",
+    "description": "Panama (Movistar)"
+  },
+  {
+    "number": 364,
+    "csc": "PCI",
+    "description": "Costa Rica, Puerto Rico (PCI)"
+  },
+  {
+    "number": 365,
+    "csc": "PCL",
+    "description": "Israel (Pelephone)"
+  },
+  {
+    "number": 366,
+    "csc": "PCM",
+    "description": "Canada (Bell-Internet)"
+  },
+  {
+    "number": 367,
+    "csc": "PCS",
+    "description": "Guatemala"
+  },
+  {
+    "number": 368,
+    "csc": "PCT",
+    "description": "Puerto Rico (Claro PR & DR)"
+  },
+  {
+    "number": 369,
+    "csc": "PCW",
+    "description": "Panama (Cable & Wireless, +M??vil)"
+  },
+  {
+    "number": 370,
+    "csc": "PEB",
+    "description": "Peru"
+  },
+  {
+    "number": 371,
+    "csc": "PEO",
+    "description": "Peru (Claro, Movistar, Nexel)"
+  },
+  {
+    "number": 372,
+    "csc": "PER",
+    "description": "El Salvador (Claro)"
+  },
+  {
+    "number": 373,
+    "csc": "PET",
+    "description": "Peru (Claro)"
+  },
+  {
+    "number": 374,
+    "csc": "PGU",
+    "description": "Guatemala (Claro)"
+  },
+  {
+    "number": 375,
+    "csc": "PHB",
+    "description": "Belgium (Post Telecom, Vox Mobile, Base, Ello Mobile, Mobile Vikings, Orange, Proximus, Scarlet, Telenet)"
+  },
+  {
+    "number": 376,
+    "csc": "PHE",
+    "description": "Spain (Movistar, Vodafone, Orange, Yoigo, Mobil R, Euskaltel, TeleCable, Jazztel, Carrefour, Pepephone, RACC, Eroski Movil, Neo, PTV Telecom, Ibercom, TPH Movil)"
+  },
+  {
+    "number": 377,
+    "csc": "PHN",
+    "description": "Netherlands (Vodafone NL, Telfort, T-Mobile, KPN, Tele2)"
+  },
+  {
+    "number": 378,
+    "csc": "PHU",
+    "description": "Vietnam"
+  },
+  {
+    "number": 379,
+    "csc": "PKD",
+    "description": "Pakistan"
+  },
+  {
+    "number": 380,
+    "csc": "PLS",
+    "description": "Poland (Plus)"
+  },
+  {
+    "number": 381,
+    "csc": "PLX",
+    "description": "Bulgaria"
+  },
+  {
+    "number": 382,
+    "csc": "PMB",
+    "description": "Canada"
+  },
+  {
+    "number": 383,
+    "csc": "PNG",
+    "description": "Papua New Guinea (Digicel PNG, Fiji, Nauru, Samoa, Tonga, Vanuatu)"
+  },
+  {
+    "number": 384,
+    "csc": "PNM",
+    "description": "Montenegro, Serbia"
+  },
+  {
+    "number": 385,
+    "csc": "PNT",
+    "description": "Peru (Nextel)"
+  },
+  {
+    "number": 386,
+    "csc": "POL",
+    "description": "Poland (Plus, T-Mobile.pl, Heyah, Orange, Play, Cyfrowy Polsat)"
+  },
+  {
+    "number": 387,
+    "csc": "PRO",
+    "description": "Belgium (Proximus, Telenet)"
+  },
+  {
+    "number": 388,
+    "csc": "PRT",
+    "description": "Poland (Play)"
+  },
+  {
+    "number": 389,
+    "csc": "PSN",
+    "description": "Argentina (Personal)"
+  },
+  {
+    "number": 390,
+    "csc": "PSP",
+    "description": "Paraguay (Personal)"
+  },
+  {
+    "number": 391,
+    "csc": "PTR",
+    "description": "Israel (Orange/Partner)"
+  },
+  {
+    "number": 392,
+    "csc": "PVT",
+    "description": "Peru (Viettel)"
+  },
+  {
+    "number": 393,
+    "csc": "QIC",
+    "description": "Netherlands"
+  },
+  {
+    "number": 394,
+    "csc": "RCG",
+    "description": "Cambodia"
+  },
+  {
+    "number": 395,
+    "csc": "REL",
+    "description": "India"
+  },
+  {
+    "number": 396,
+    "csc": "RNG",
+    "description": "Tunisia"
+  },
+  {
+    "number": 397,
+    "csc": "ROM",
+    "description": "Romania (Orange RO, Vodafone RO, Cosmote)"
+  },
+  {
+    "number": 398,
+    "csc": "RTL",
+    "description": "Ukraine (Vodafone Ukraine, Kyivstar, LifeCell)"
+  },
+  {
+    "number": 399,
+    "csc": "RWC",
+    "description": "Canada (Rogers)"
+  },
+  {
+    "number": 400,
+    "csc": "SAC",
+    "description": "Algeria (Mobilis, Djezzy, Ooredoo)"
+  },
+  {
+    "number": 401,
+    "csc": "SAF",
+    "description": "Kenya (Safaricom)"
+  },
+  {
+    "number": 402,
+    "csc": "SAL",
+    "description": "El Salvador (Movistar)"
+  },
+  {
+    "number": 403,
+    "csc": "SAM",
+    "description": "Peru (Movistar)"
+  },
+  {
+    "number": 404,
+    "csc": "SAR",
+    "description": "Indonesia"
+  },
+  {
+    "number": 405,
+    "csc": "SAU",
+    "description": "Finland"
+  },
+  {
+    "number": 406,
+    "csc": "SBM",
+    "description": "Japan (SBM)"
+  },
+  {
+    "number": 407,
+    "csc": "SCA",
+    "description": "Russia (MTS, Beeline, Megafon, Bakcell, Nar, Ge Ocell, Magticom, VivaCell-MTS, Orange)"
+  },
+  {
+    "number": 408,
+    "csc": "SEB",
+    "description": "Baltic countries (Estonia, Latvia, Lithuania)"
+  },
+  {
+    "number": 409,
+    "csc": "SEE",
+    "description": "Albania, Bosnia & Herzegovina, Bulgaria, Croatia, Greece, Kosovo, Moldova, Montenegro, North Macedonia, Romania, Serbia, Slovenia, T??rkiye"
+  },
+  {
+    "number": 410,
+    "csc": "SEK",
+    "description": "Ukraine (Kyivstar)"
+  },
+  {
+    "number": 411,
+    "csc": "SEM",
+    "description": "Mexico"
+  },
+  {
+    "number": 412,
+    "csc": "SEN",
+    "description": "Sweden"
+  },
+  {
+    "number": 413,
+    "csc": "SER",
+    "description": "Russia (MTS, Beeline, Megafon, Tele2, Golden Telecom, Yota)"
+  },
+  {
+    "number": 414,
+    "csc": "SFR",
+    "description": "France (SFR)"
+  },
+  {
+    "number": 415,
+    "csc": "SIM",
+    "description": "Slovenia (A1)"
+  },
+  {
+    "number": 416,
+    "csc": "SIN",
+    "description": "Singapore (SingTel)"
+  },
+  {
+    "number": 417,
+    "csc": "SIO",
+    "description": "Slovakia"
+  },
+  {
+    "number": 418,
+    "csc": "SJP",
+    "description": "Japan"
+  },
+  {
+    "number": 419,
+    "csc": "SJR",
+    "description": "Canada"
+  },
+  {
+    "number": 420,
+    "csc": "SKC",
+    "description": "South Korea (SK Telecom)"
+  },
+  {
+    "number": 421,
+    "csc": "SKO",
+    "description": "South Korea (SKO)"
+  },
+  {
+    "number": 422,
+    "csc": "SKT",
+    "description": "South Korea (SKT, KT, Gumi, Suwon 2G, Suwon 3G)"
+  },
+  {
+    "number": 423,
+    "csc": "SKZ",
+    "description": "Kazakhstan (Beeline, Kcell, Activ, Neo)"
+  },
+  {
+    "number": 424,
+    "csc": "SLK",
+    "description": "Sri Lanka (Dialog, Mobitel, Etisalat, Airtel, Hutch)"
+  },
+  {
+    "number": 425,
+    "csc": "SMA",
+    "description": "Philippines (Smart)"
+  },
+  {
+    "number": 426,
+    "csc": "SMO",
+    "description": "Serbia, Montenegro (Telekom Srbija, Telenor, A1)"
+  },
+  {
+    "number": 427,
+    "csc": "SNI",
+    "description": "Morocco"
+  },
+  {
+    "number": 428,
+    "csc": "SNT",
+    "description": "Russia"
+  },
+  {
+    "number": 429,
+    "csc": "SOL",
+    "description": "Canada (Bell)"
+  },
+  {
+    "number": 430,
+    "csc": "SPC",
+    "description": "Canada (Telus, Rockhopper, Koodo)"
+  },
+  {
+    "number": 431,
+    "csc": "SPN",
+    "description": "Ghana"
+  },
+  {
+    "number": 432,
+    "csc": "SPR",
+    "description": "United States of America (Sprint)"
+  },
+  {
+    "number": 433,
+    "csc": "SPT",
+    "description": "Vietnam"
+  },
+  {
+    "number": 434,
+    "csc": "STG",
+    "description": "Singapore (Starhub)"
+  },
+  {
+    "number": 435,
+    "csc": "STH",
+    "description": "Singapore (Starhub)"
+  },
+  {
+    "number": 436,
+    "csc": "SUN",
+    "description": "Switzerland (Sunrise, Swisscom, Orange)"
+  },
+  {
+    "number": 437,
+    "csc": "SUW",
+    "description": "Switzerland (Sunrise)"
+  },
+  {
+    "number": 438,
+    "csc": "SVZ",
+    "description": "Russia (MTS, Beeline, Megafon, Tele2, Azercell, Bakcell, Nar, Ge ocell, Magticom, VivaCell-MTS, Orange)"
+  },
+  {
+    "number": 439,
+    "csc": "SWA",
+    "description": "Bahrain, Cyprus, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, Syria, T??rkiye, United Aran Emirates, Yemen)"
+  },
+  {
+    "number": 440,
+    "csc": "SWC",
+    "description": "Switzerland (Swisscom)"
+  },
+  {
+    "number": 441,
+    "csc": "SWR",
+    "description": "Switzerland"
+  },
+  {
+    "number": 442,
+    "csc": "TBS",
+    "description": "El Salvador"
+  },
+  {
+    "number": 443,
+    "csc": "TBT",
+    "description": "Canada (Tbaytel)"
+  },
+  {
+    "number": 444,
+    "csc": "TCC",
+    "description": "Taiwan"
+  },
+  {
+    "number": 445,
+    "csc": "TCE",
+    "description": "Mexico (Telsel)"
+  },
+  {
+    "number": 446,
+    "csc": "TCI",
+    "description": "Taiwan"
+  },
+  {
+    "number": 447,
+    "csc": "TCL",
+    "description": "Portugal (Vodafone)"
+  },
+  {
+    "number": 448,
+    "csc": "TDC",
+    "description": "Denmark (Telia)"
+  },
+  {
+    "number": 449,
+    "csc": "TDR",
+    "description": "Dominican Republic (Viva)"
+  },
+  {
+    "number": 450,
+    "csc": "TEB",
+    "description": "Bosnia and Herzegovina (m:tel, Telemach BH)"
+  },
+  {
+    "number": 451,
+    "csc": "TEC",
+    "description": "China"
+  },
+  {
+    "number": 452,
+    "csc": "TEE",
+    "description": "Spain (Movistar, Vodafone ES, Orange, Yoigo, mobil R, Euskaltel, TeleCable, Blau, Simyo)"
+  },
+  {
+    "number": 453,
+    "csc": "TEL",
+    "description": "Australia (Telus)"
+  },
+  {
+    "number": 454,
+    "csc": "TEM",
+    "description": "Montenegro (Tel)"
+  },
+  {
+    "number": 455,
+    "csc": "TEN",
+    "description": "Norway (Telenor)"
+  },
+  {
+    "number": 456,
+    "csc": "TET",
+    "description": "Sweden"
+  },
+  {
+    "number": 457,
+    "csc": "TFG",
+    "description": "South America Movistar (PE, MX, AR, UR, CO, CH, VE, GT, SV, NI, PA, EC, CR)"
+  },
+  {
+    "number": 458,
+    "csc": "TFN",
+    "description": "United States of America (TracFone Wireless)"
+  },
+  {
+    "number": 459,
+    "csc": "TFT",
+    "description": "Netherland"
+  },
+  {
+    "number": 460,
+    "csc": "TGP",
+    "description": "Paraguay (Tigo)"
+  },
+  {
+    "number": 461,
+    "csc": "TGU",
+    "description": "Guatemala (Movistar)"
+  },
+  {
+    "number": 462,
+    "csc": "TGY",
+    "description": "Hong Kong (CSL Mobile, 3, PCCW, China Mobile Hong Kong, Sun Mobile, SmarTone)"
+  },
+  {
+    "number": 463,
+    "csc": "TGR",
+    "description": "Greece"
+  },
+  {
+    "number": 464,
+    "csc": "THE",
+    "description": "Thailand"
+  },
+  {
+    "number": 465,
+    "csc": "THL",
+    "description": "Thailand (AIS, DTAC, True Move, Real Future, CAT, Cellcard, Smart, Qb, Metfone, Beeline)"
+  },
+  {
+    "number": 466,
+    "csc": "THO",
+    "description": "Thailand (Celcom, Maxis, DiGi, U Mobile)"
+  },
+  {
+    "number": 467,
+    "csc": "THR",
+    "description": "Iran (IR MCI, IranCell, Taliya, TKC, MTCE)"
+  },
+  {
+    "number": 468,
+    "csc": "THS",
+    "description": "Thailand"
+  },
+  {
+    "number": 469,
+    "csc": "THW",
+    "description": "Thailand (AIS, DTAC, True Move, Real Future, CAT)"
+  },
+  {
+    "number": 470,
+    "csc": "TIM",
+    "description": "Italy (TIM)"
+  },
+  {
+    "number": 471,
+    "csc": "TIY",
+    "description": "China"
+  },
+  {
+    "number": 472,
+    "csc": "TLA",
+    "description": "Sweden (Telia, Call Me, NetCom)"
+  },
+  {
+    "number": 473,
+    "csc": "TLB",
+    "description": "Belgium (Mobistar, Proximus, Base, Telenet, Tango, Post Telecom, Vox Mobile)"
+  },
+  {
+    "number": 474,
+    "csc": "TLC",
+    "description": "Vietnam"
+  },
+  {
+    "number": 475,
+    "csc": "TLP",
+    "description": "T??rkiye"
+  },
+  {
+    "number": 476,
+    "csc": "TLS",
+    "description": "Canada (Telus)"
+  },
+  {
+    "number": 477,
+    "csc": "TLT",
+    "description": "Lithuania"
+  },
+  {
+    "number": 478,
+    "csc": "TMA",
+    "description": "Algeria (Mobilis, Djezzy, Nedjma)"
+  },
+  {
+    "number": 479,
+    "csc": "TMB",
+    "description": "United States (T-Mobile)"
+  },
+  {
+    "number": 480,
+    "csc": "TMC",
+    "description": "Algeria, North Macedonia (Mobilis, Djezzy, Nedjma)"
+  },
+  {
+    "number": 481,
+    "csc": "TMH",
+    "description": "Hungary (T-Mobile)"
+  },
+  {
+    "number": 482,
+    "csc": "TMK",
+    "description": "United States (MetroPCS)"
+  },
+  {
+    "number": 483,
+    "csc": "TML",
+    "description": "Bangladesh (Grameenphone, Banglalink, Teletalk, Robi, Airtel)"
+  },
+  {
+    "number": 484,
+    "csc": "TMM",
+    "description": "Mexico (Movistar)"
+  },
+  {
+    "number": 485,
+    "csc": "TMN",
+    "description": "Portugal (Portugal Telecom)"
+  },
+  {
+    "number": 486,
+    "csc": "TMO",
+    "description": "Hungry"
+  },
+  {
+    "number": 487,
+    "csc": "TMR",
+    "description": "Brazil"
+  },
+  {
+    "number": 488,
+    "csc": "TMS",
+    "description": "Slovakia (T-Mobile)"
+  },
+  {
+    "number": 489,
+    "csc": "TMT",
+    "description": "Montenegro (T-Mobile)"
+  },
+  {
+    "number": 490,
+    "csc": "TMU",
+    "description": "United Kingdom (T-Mobile)"
+  },
+  {
+    "number": 491,
+    "csc": "TMZ",
+    "description": "Czech Rebublic (T-Mobile)"
+  },
+  {
+    "number": 492,
+    "csc": "TNL",
+    "description": "Netherlands (T-Mobile)"
+  },
+  {
+    "number": 493,
+    "csc": "TNO",
+    "description": "Norway, Sweden (Tele2)"
+  },
+  {
+    "number": 494,
+    "csc": "TNX",
+    "description": "New Zealand (Spark)"
+  },
+  {
+    "number": 495,
+    "csc": "TNZ",
+    "description": "New Zealand (Telecom)"
+  },
+  {
+    "number": 496,
+    "csc": "TOP",
+    "description": "Serbia, Montenegro (A1 Serbia)"
+  },
+  {
+    "number": 497,
+    "csc": "TPA",
+    "description": "Panama"
+  },
+  {
+    "number": 498,
+    "csc": "TPD",
+    "description": "Netherlands"
+  },
+  {
+    "number": 499,
+    "csc": "TPR",
+    "description": "Puerto Rico"
+  },
+  {
+    "number": 500,
+    "csc": "TPD",
+    "description": "Netherlands (Vodafone, Telfort, T-Mobile NL, KPN, Tele2, UPC, Ziggo)"
+  },
+  {
+    "number": 501,
+    "csc": "TPH",
+    "description": "Portugal (P TMN, Vodafone, Optimus)"
+  },
+  {
+    "number": 502,
+    "csc": "TPL",
+    "description": "Poland (T-Mobile)"
+  },
+  {
+    "number": 503,
+    "csc": "TRA",
+    "description": "Croatia (T-Mobile, A1, Tele2)"
+  },
+  {
+    "number": 504,
+    "csc": "TRC",
+    "description": "T??rkiye (Turkcell, Vodafone, T??rk Telekom)"
+  },
+  {
+    "number": 505,
+    "csc": "TRG",
+    "description": "Austria (Tele.Ring)"
+  },
+  {
+    "number": 506,
+    "csc": "TRO",
+    "description": "T??rkiye (Turkcell, Vodafone, Avea)"
+  },
+  {
+    "number": 507,
+    "csc": "TSC",
+    "description": "United Kingdom (Tesco)"
+  },
+  {
+    "number": 508,
+    "csc": "TSI",
+    "description": "Ireland (Tesco Mobile)"
+  },
+  {
+    "number": 509,
+    "csc": "TSR",
+    "description": "Serbia, Montenegro (MT:S, Telekom)"
+  },
+  {
+    "number": 510,
+    "csc": "TTR",
+    "description": "Austria (unbranded)"
+  },
+  {
+    "number": 511,
+    "csc": "TTT",
+    "description": "Trinidad & Tobago (TSTT, Lime, Orange, Viva)"
+  },
+  {
+    "number": 512,
+    "csc": "TUN",
+    "description": "Tunisia (Tunisie Telecom, Tunisiana)"
+  },
+  {
+    "number": 513,
+    "csc": "TUR",
+    "description": "T??rkiye (Turkcell, Vodafone, AVEA)"
+  },
+  {
+    "number": 514,
+    "csc": "TWM",
+    "description": "Taiwan (TWM Mobile)"
+  },
+  {
+    "number": 515,
+    "csc": "TWO",
+    "description": "Croatia (Tele2)"
+  },
+  {
+    "number": 516,
+    "csc": "UBL",
+    "description": "Uzbekistan (Beeline)"
+  },
+  {
+    "number": 517,
+    "csc": "UCL",
+    "description": "Uzbekistan (UCell)"
+  },
+  {
+    "number": 518,
+    "csc": "UFN",
+    "description": "Argentina (Movistar)"
+  },
+  {
+    "number": 519,
+    "csc": "UFU",
+    "description": "Uruguay (Movistar)"
+  },
+  {
+    "number": 520,
+    "csc": "UMB",
+    "description": "Malaysia (U Mobile)"
+  },
+  {
+    "number": 521,
+    "csc": "UMC",
+    "description": "Ukraine"
+  },
+  {
+    "number": 522,
+    "csc": "UNE",
+    "description": "Mexico (Unefon)"
+  },
+  {
+    "number": 523,
+    "csc": "UNI",
+    "description": "France"
+  },
+  {
+    "number": 524,
+    "csc": "UPO",
+    "description": "Paraguay, Uruguay (Personal, Claro, Movistar, Ancel, Vox, Tigo)"
+  },
+  {
+    "number": 525,
+    "csc": "USC",
+    "description": "United States (US Cellular)"
+  },
+  {
+    "number": 526,
+    "csc": "UWA (Multi-CSC)",
+    "description": "CDR, PCT"
+  },
+  {
+    "number": 527,
+    "csc": "UWE",
+    "description": "Claro (CPA HME NEN PER PGU)"
+  },
+  {
+    "number": 528,
+    "csc": "UVC (Multi-CSC)",
+    "description": "CTI, CTP, CTU"
+  },
+  {
+    "number": 529,
+    "csc": "UVY (Multi-CSC)",
+    "description": "IUS, UNE"
+  },
+  {
+    "number": 530,
+    "csc": "UYO",
+    "description": "Uruguay"
+  },
+  {
+    "number": 531,
+    "csc": "UZB",
+    "description": "Uzbekistan"
+  },
+  {
+    "number": 532,
+    "csc": "VAP",
+    "description": "Australia (Vodafone)"
+  },
+  {
+    "number": 533,
+    "csc": "VAU",
+    "description": "Australia (Vodafone)"
+  },
+  {
+    "number": 534,
+    "csc": "VD2",
+    "description": "Germany (Vodafone)"
+  },
+  {
+    "number": 535,
+    "csc": "VDC",
+    "description": "Czechia (Vodafone)"
+  },
+  {
+    "number": 536,
+    "csc": "VDF",
+    "description": "Netherlands (Vodafone)"
+  },
+  {
+    "number": 537,
+    "csc": "VDH",
+    "description": "Hungary (Vodafone)"
+  },
+  {
+    "number": 538,
+    "csc": "VDI",
+    "description": "Ireland (Vodafone)"
+  },
+  {
+    "number": 539,
+    "csc": "VDP",
+    "description": "Netherlands (Vodafone)"
+  },
+  {
+    "number": 540,
+    "csc": "VDR",
+    "description": "Germany (Vodafone.de)"
+  },
+  {
+    "number": 541,
+    "csc": "VDS",
+    "description": "Sweden (Telenor)"
+  },
+  {
+    "number": 542,
+    "csc": "VEL",
+    "description": "Belarus"
+  },
+  {
+    "number": 543,
+    "csc": "VFG (Multi-CSC)",
+    "description": "Vodafone (ATL, CNX, CYV, MOB, MTL, OMN, PRO, SFR, SIM, SWC, TCL, TOP, V D2, VDC, VDF, VDH, VDI, VDP, VDR, VGR, VIP, VOD, VOP)"
+  },
+  {
+    "number": 544,
+    "csc": "VFJ",
+    "description": "Fiji (Vodafone FJ, Digicel Fiji)"
+  },
+  {
+    "number": 545,
+    "csc": "VFK",
+    "description": "Japan"
+  },
+  {
+    "number": 546,
+    "csc": "VGF",
+    "description": "France (Virgin)"
+  },
+  {
+    "number": 547,
+    "csc": "VFR (Multi-CSC)",
+    "description": "Vodafone (ATL, OMN, VD2, VDF, VOD)"
+  },
+  {
+    "number": 548,
+    "csc": "VGR",
+    "description": "Greece (Vodafone)"
+  },
+  {
+    "number": 549,
+    "csc": "VHC",
+    "description": "Ukraine (MTS Ukraine, Kyivstar, Life:), Beeline UA, Utel, Jeans, Kyivstar A&B, Djuice)"
+  },
+  {
+    "number": 550,
+    "csc": "VIA",
+    "description": "Germany (O2-de)"
+  },
+  {
+    "number": 551,
+    "csc": "VIM",
+    "description": "North Macedonia (A1)"
+  },
+  {
+    "number": 552,
+    "csc": "VIP",
+    "description": "Croatia (VIP-Net)"
+  },
+  {
+    "number": 553,
+    "csc": "VIR",
+    "description": "United Kingdom"
+  },
+  {
+    "number": 554,
+    "csc": "VIT",
+    "description": "Germany (O2-de)"
+  },
+  {
+    "number": 555,
+    "csc": "VMC",
+    "description": "Canada (Virgin Mobile)"
+  },
+  {
+    "number": 556,
+    "csc": "VMT",
+    "description": "Venezuela (Movistar)"
+  },
+  {
+    "number": 557,
+    "csc": "VMU",
+    "description": "United States(Virgin Mobile)"
+  },
+  {
+    "number": 558,
+    "csc": "VNO",
+    "description": "Venezuela (Digitel, Movistar, Movilnet)"
+  },
+  {
+    "number": 559,
+    "csc": "VNX",
+    "description": "New Zealand (Vodafone)"
+  },
+  {
+    "number": 560,
+    "csc": "VNZ",
+    "description": "New Zealand (Vodafone)"
+  },
+  {
+    "number": 561,
+    "csc": "VOD",
+    "description": "United Kingdom (Vodafone)"
+  },
+  {
+    "number": 562,
+    "csc": "VOM",
+    "description": "Malta (Vodafone MT)"
+  },
+  {
+    "number": 563,
+    "csc": "VOP",
+    "description": "United Kingdom (Vodafone)"
+  },
+  {
+    "number": 564,
+    "csc": "VOX",
+    "description": "Paraguay (VOX)"
+  },
+  {
+    "number": 565,
+    "csc": "VTC",
+    "description": "Vietnam"
+  },
+  {
+    "number": 566,
+    "csc": "VTL",
+    "description": "Vietnam (Viettel, VinaPhone, MobiFone, and Vietnamobile)"
+  },
+  {
+    "number": 567,
+    "csc": "VTN",
+    "description": "Macao"
+  },
+  {
+    "number": 568,
+    "csc": "VTR",
+    "description": "Canada (Vid?©otron)"
+  },
+  {
+    "number": 569,
+    "csc": "VVT",
+    "description": "Bulgaria (Vivacom)"
+  },
+  {
+    "number": 570,
+    "csc": "VZW",
+    "description": "United States (Verizon Wireless)"
+  },
+  {
+    "number": 571,
+    "csc": "WAN",
+    "description": "Morocco (Inwi, Vodafone)"
+  },
+  {
+    "number": 572,
+    "csc": "WDC",
+    "description": "Pakistan"
+  },
+  {
+    "number": 573,
+    "csc": "WIN",
+    "description": "Italy (Wind)"
+  },
+  {
+    "number": 574,
+    "csc": "WST",
+    "description": "Hungary (Magyar Telekom, Vodafone, Invitel, Externet, Emitel, Monortel, Pantel, Digi)"
+  },
+  {
+    "number": 575,
+    "csc": "WTL",
+    "description": "Algeria (Mobilis, Djezzy, Nedjma)"
+  },
+  {
+    "number": 576,
+    "csc": "WWA",
+    "description": "World Wide CSC (for UK models)"
+  },
+  {
+    "number": 577,
+    "csc": "WWC",
+    "description": "Unknown"
+  },
+  {
+    "number": 578,
+    "csc": "WWD",
+    "description": "World Wide Demo CSC (for US international models)"
+  },
+  {
+    "number": 579,
+    "csc": "XAA",
+    "description": "United States of America (unbranded)"
+  },
+  {
+    "number": 580,
+    "csc": "XAC",
+    "description": "Canada (unbranded)"
+  },
+  {
+    "number": 581,
+    "csc": "XAR",
+    "description": "United States (Cellular South)"
+  },
+  {
+    "number": 582,
+    "csc": "XAS",
+    "description": "United States (Sprint)"
+  },
+  {
+    "number": 583,
+    "csc": "XAU",
+    "description": "United States (T-Mobile)"
+  },
+  {
+    "number": 584,
+    "csc": "XCS",
+    "description": "Czechia (O2, Vodafone, T-Mobile)"
+  },
+  {
+    "number": 585,
+    "csc": "XEB",
+    "description": "Belgium (Mobistar, Proximus, Base, Telenet, Tango, Post Telecom, Vox Mobile)"
+  },
+  {
+    "number": 586,
+    "csc": "XEC",
+    "description": "Spain (Movistar)"
+  },
+  {
+    "number": 587,
+    "csc": "XEE",
+    "description": "Sweden (Vimla, Hallon, Telenor, Telia, Tele2, 3)"
+  },
+  {
+    "number": 588,
+    "csc": "XEF",
+    "description": "France (Orange, Bouygues Telecom, Free Mobile)"
+  },
+  {
+    "number": 589,
+    "csc": "XEG",
+    "description": "Germany (1&1, Telekom.de, Vodafone.de, E-Plus, O2)"
+  },
+  {
+    "number": 590,
+    "csc": "XEH",
+    "description": "Hungary (T-Mobile, Telenor, Vodafone, Vodafone Vmax)"
+  },
+  {
+    "number": 591,
+    "csc": "XEN",
+    "description": "Netherlands (KPN, Vodafone, Telfort, T-Mobile)"
+  },
+  {
+    "number": 592,
+    "csc": "XEO",
+    "description": "Poland (Plus, T-Mobile, Heyah, Orange, Cyfrowy Polsat)"
+  },
+  {
+    "number": 593,
+    "csc": "XEP",
+    "description": "Portugal (MEO, Vodafone, NOS)"
+  },
+  {
+    "number": 594,
+    "csc": "XET",
+    "description": "Italy (ITV)"
+  },
+  {
+    "number": 595,
+    "csc": "XEU",
+    "description": "United Kingdom, Ireland (O2, Orange, T-Mobile, Virgin, Vodafone, BT Mobile, H3G, Asda, Meteor, Tesco Mobile Ireland, Talk Mobile)"
+  },
+  {
+    "number": 596,
+    "csc": "XEV",
+    "description": "Vietnam (Beeline VN, VN Mobifone, Vinaphone, Vietnamobile, EVN Telecom 3G, Viettel)"
+  },
+  {
+    "number": 597,
+    "csc": "XEZ",
+    "description": "Czech Republic (T-Mobile, O2, Vodafone)"
+  },
+  {
+    "number": 598,
+    "csc": "XFA",
+    "description": "South Africa (Vodacom, 8ta, MTN, Vodacom Lesotho, Cell C, Virgin)"
+  },
+  {
+    "number": 599,
+    "csc": "XFC",
+    "description": "South Africa (Vodacom, Vodacom Lesotho, MTN, Cell C, Virgin)"
+  },
+  {
+    "number": 600,
+    "csc": "XFE",
+    "description": "South Africa (Vodacom, MTN, Cell C, Virgin)"
+  },
+  {
+    "number": 601,
+    "csc": "XFM",
+    "description": "South Africa (Vodacom, Vodacom Lesotho, MTN, Cell C, Virgin, Telkom)"
+  },
+  {
+    "number": 602,
+    "csc": "XFN",
+    "description": "Namibia (MTC NAM)"
+  },
+  {
+    "number": 603,
+    "csc": "XFU",
+    "description": "Saudi Arabia (Saudi Telecom Company)"
+  },
+  {
+    "number": 604,
+    "csc": "XFV",
+    "description": "South Africa (Vodafone, Telkom SA, Vodacom Lesotho, MTN, Cell C, Virgin, Red Bull Mobile, 8ta)"
+  },
+  {
+    "number": 605,
+    "csc": "XID",
+    "description": "Indonesia (Indosat, Indosat M3, Telkomsel, XL, 3, Axis)"
+  },
+  {
+    "number": 606,
+    "csc": "XJP",
+    "description": "Japan (XJP, SoftBank Mobile)"
+  },
+  {
+    "number": 607,
+    "csc": "XME",
+    "description": "Malaysia (Axiata, Celcom, Maxis, DiGi, U Mobile, Telekom Malaysia, UniFi Mobile)"
+  },
+  {
+    "number": 608,
+    "csc": "XNZ",
+    "description": "New Zealand"
+  },
+  {
+    "number": 609,
+    "csc": "XSA",
+    "description": "Australia (Telstra, Optus, TPG Telecom, Virgin Mobile, 3)"
+  },
+  {
+    "number": 610,
+    "csc": "XSB",
+    "description": "United Arab Emirates"
+  },
+  {
+    "number": 611,
+    "csc": "XSD",
+    "description": "United Arab Emirates (du)"
+  },
+  {
+    "number": 612,
+    "csc": "XSE",
+    "description": "Indonesia (Telkom Indonesia, Indosat Ooredoo, Telkomsel, XL Axiata, Smartfren, 3, Axis)"
+  },
+  {
+    "number": 613,
+    "csc": "XSG",
+    "description": "United Arab Emirates (Etisalat, VIVA, Ooredoo Kuwait, Oman Mobile, Nawras, Qatarnet, Vodafone Qatar)"
+  },
+  {
+    "number": 614,
+    "csc": "XSI",
+    "description": "United Arab Emirates (Etisalat, VIVA, Ooredoo Kuwait, Zain Kuwait, Zain Bahrain, Batelco)"
+  },
+  {
+    "number": 615,
+    "csc": "XSK",
+    "description": "Slovakia (Orange, T-Mobile, O2)"
+  },
+  {
+    "number": 616,
+    "csc": "XSM",
+    "description": "United Arab Emirates"
+  },
+  {
+    "number": 617,
+    "csc": "XSN",
+    "description": "United Arab Emirates"
+  },
+  {
+    "number": 618,
+    "csc": "XSO",
+    "description": "Singapore (SingTel)"
+  },
+  {
+    "number": 619,
+    "csc": "XSP",
+    "description": "Singapore (SGP-M1, SingTel, StarHub, B-Mobile, DST)"
+  },
+  {
+    "number": 620,
+    "csc": "XSS",
+    "description": "United Arab Emirates"
+  },
+  {
+    "number": 621,
+    "csc": "XST",
+    "description": "United Arab Emirates (Etisalat)"
+  },
+  {
+    "number": 622,
+    "csc": "XSW",
+    "description": "United Arab Emirates"
+  },
+  {
+    "number": 623,
+    "csc": "XSZ",
+    "description": "Kuwait (Zain Kuwait)"
+  },
+  {
+    "number": 624,
+    "csc": "XTC",
+    "description": "Philippines (Globe, ABS-CBN, Smart, Sun Cellular, Red Mobile)"
+  },
+  {
+    "number": 625,
+    "csc": "XTE",
+    "description": "Philippines (Sun Cellular)"
+  },
+  {
+    "number": 626,
+    "csc": "XXU",
+    "description": "Germany"
+  },
+  {
+    "number": 627,
+    "csc": "XXV",
+    "description": "Vietnam (MobiFone, Vinaphone, G-Mobile, Vietnamobile, EVN Telecom 3G, Viettel)"
+  },
+  {
+    "number": 628,
+    "csc": "YOG",
+    "description": "Spain (Yoigo)"
+  },
+  {
+    "number": 629,
+    "csc": "YXY (Multi-CSC)",
+    "description": "ATO, AUO, AUT, BOG, BTU, EUR, GBL, ITV, MOT"
+  },
+  {
+    "number": 630,
+    "csc": "ZTA",
+    "description": "Brazil (Claro)"
+  },
+  {
+    "number": 631,
+    "csc": "ZTM",
+    "description": "Brazil (TIM)"
+  },
+  {
+    "number": 632,
+    "csc": "ZTO",
+    "description": "Brazil (TIM, Claro, Vivo, Oi, Sercomtel, CTBC, Nextel)"
+  },
+  {
+    "number": 633,
+    "csc": "ZTR",
+    "description": "Brazil (Oi)"
+  },
+  {
+    "number": 634,
+    "csc": "ZVV",
+    "description": "Brazil (Vivo)"
+  }
+]
