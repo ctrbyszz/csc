@@ -1,25 +1,31 @@
 let CSC_DATA = [];
 
-// IMPORTANT: correct path for GitHub Pages project repo
-fetch("./wynik.json")
-  .then(res => {
-    if (!res.ok) throw new Error("Cannot load wynik.json");
-    return res.json();
+// LOAD JSON
+fetch("./wynik.json", { cache: "no-store" })
+  .then(r => {
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    return r.json();
   })
   .then(data => {
-    CSC_DATA = data.map(item => ({
-      code: item.code.toUpperCase(),
-      country: item.country,
-      info: item.description || ""
-    }));
+    CSC_DATA = data.map(item => {
+      const desc = item.description || "";
+      const country = desc.split("(")[0].trim(); // extract country
+
+      return {
+        code: item.csc.toUpperCase(),
+        country: country,
+        info: desc
+      };
+    });
+
     console.log("CSC loaded:", CSC_DATA.length);
   })
   .catch(err => {
-    console.error(err);
+    console.error("FETCH ERROR:", err);
     alert("Error loading CSC data");
   });
 
-// Tabs
+// TABS
 document.querySelectorAll(".tab").forEach(tab => {
   tab.onclick = () => {
     document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
@@ -29,7 +35,7 @@ document.querySelectorAll(".tab").forEach(tab => {
   };
 });
 
-// Autocomplete
+// AUTOCOMPLETE
 function autocomplete(input, list, key, render) {
   input.addEventListener("input", () => {
     list.innerHTML = "";
@@ -51,7 +57,7 @@ function autocomplete(input, list, key, render) {
   });
 }
 
-// CSC search
+// CSC SEARCH
 autocomplete(
   cscInput,
   cscSuggest,
@@ -62,12 +68,12 @@ autocomplete(
       <div class="card">
         <b>CSC:</b> ${c.code}<br>
         <b>Country:</b> ${c.country}<br>
-        <b>Info:</b> ${c.info}
+        <b>Description:</b> ${c.info}
       </div>` : "";
   }
 );
 
-// Country search
+// COUNTRY SEARCH
 autocomplete(
   countryInput,
   countrySuggest,
