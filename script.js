@@ -1,17 +1,25 @@
 let CSC_DATA = [];
 
-// LOAD JSON FROM GITHUB PAGES
-fetch("/wynik.json")
-  .then(res => res.json())
+// IMPORTANT: correct path for GitHub Pages project repo
+fetch("./wynik.json")
+  .then(res => {
+    if (!res.ok) throw new Error("Cannot load wynik.json");
+    return res.json();
+  })
   .then(data => {
-    CSC_DATA = Object.entries(data).map(([code, val]) => ({
-      code,
-      country: val.country,
-      info: val.description || ""
+    CSC_DATA = data.map(item => ({
+      code: item.code.toUpperCase(),
+      country: item.country,
+      info: item.description || ""
     }));
+    console.log("CSC loaded:", CSC_DATA.length);
+  })
+  .catch(err => {
+    console.error(err);
+    alert("Error loading CSC data");
   });
 
-// TABS
+// Tabs
 document.querySelectorAll(".tab").forEach(tab => {
   tab.onclick = () => {
     document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
@@ -21,12 +29,12 @@ document.querySelectorAll(".tab").forEach(tab => {
   };
 });
 
-// AUTOCOMPLETE
+// Autocomplete
 function autocomplete(input, list, key, render) {
-  input.oninput = () => {
+  input.addEventListener("input", () => {
     list.innerHTML = "";
     const val = input.value.toLowerCase();
-    if (!val) return;
+    if (!val || CSC_DATA.length === 0) return;
 
     CSC_DATA.filter(c => c[key].toLowerCase().includes(val))
       .slice(0, 10)
@@ -40,10 +48,10 @@ function autocomplete(input, list, key, render) {
         };
         list.appendChild(li);
       });
-  };
+  });
 }
 
-// CSC SEARCH
+// CSC search
 autocomplete(
   cscInput,
   cscSuggest,
@@ -59,7 +67,7 @@ autocomplete(
   }
 );
 
-// COUNTRY SEARCH
+// Country search
 autocomplete(
   countryInput,
   countrySuggest,
